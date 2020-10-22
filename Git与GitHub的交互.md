@@ -2,11 +2,11 @@
 
 ## Git 常用命令速查表
 
-![11455432-669c33b411d979df](C:\Users\86134\Pictures\11455432-669c33b411d979df.jpg)
+![11455432-669c33b411d979df](E:\hello-github\image\11455432-669c33b411d979df.jpg)
 
 ## Git仓库的三大区域
 
-![document-uid310176labid9805timestamp1548755776759](C:\Users\86134\Pictures\document-uid310176labid9805timestamp1548755776759.png)
+![document-uid310176labid9805timestamp1548755776759](E:\hello-github\image\document-uid310176labid9805timestamp1548755776759.png)
 
 ## 基础操作
 
